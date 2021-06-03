@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolution of the Prince of Wales, concerning Lieutenant Generall Cromwel, and the routing of the Scottish army, and present design with his shipping. With the results and proceedings of the Princes councell aboard the Admirall, concerning captain Battens falling in at Tibury Hope, with a squadron of ships, to joyn with the water-men and sea-men, and an army from London, for relief of Colchester. Likewise, His Majesties declaration concerning all those who have taken up armes against Him and have been gainers by the wars of England and His resolution thereupon. As also, the most pious, and Christian expressions of a most religious, and renowned King. touching his people.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79390</idno><idno type="EEBO-CITATION">99864571</idno>
+  <idno type="VID">116802</idno>
+  <idno type="EEBO-PROQUEST">2240909553</idno>
+  
+            <idno type="STC">Wing C3601A</idno>
+            <idno type="STC">Thomason E460_33</idno>
+            <idno type="STC">ESTC R205133</idno>
+            <idno type="PROQUEST">99864571</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864571e"/>
+            <note>(EEBO-TCP ; phase 2, no. A79390)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116802)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E460[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolution of the Prince of Wales, concerning Lieutenant Generall Cromwel, and the routing of the Scottish army, and present design with his shipping. With the results and proceedings of the Princes councell aboard the Admirall, concerning captain Battens falling in at Tibury Hope, with a squadron of ships, to joyn with the water-men and sea-men, and an army from London, for relief of Colchester. Likewise, His Majesties declaration concerning all those who have taken up armes against Him and have been gainers by the wars of England and His resolution thereupon. As also, the most pious, and Christian expressions of a most religious, and renowned King. touching his people.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed Anno Dom. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact the Prince of Wales' resolution, but a summary of correspondence between the King and the Earl of Middlesex and a letter describing the Prince's military intentions.</note>
+                  <note>Annotation on Thomason copy: "Aug ye 24th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="corporate_name">Scotland. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116802:1"/>
+            <p>THE RESOLUTION OF The Prince of <hi>Wales,</hi> concerning Lieute<g ref="char:EOLhyphen"/>nant Generall <hi>Cromwel,</hi> and the rout<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of the Scottish Army, and his present Design with his Shipping. With the Results and Proceedings of the Princes Councell aboard the Admirall, con<g ref="char:EOLhyphen"/>cerning Captain <hi>Battens</hi> falling in at Ti<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bury Hope, with a Squadron of Ships, to joyn with the Water-men and Sea-men, and an Army from <hi>London,</hi> for relief of Colchester. Likewise, His Majesties Declaration concerning all those who have taken up Arms against Him and have been gainers by the Wars of ENGLAND and His Resolution thereupon. As also, the most pious, and Christian Expressions of a most Religious, and renowned King, touching his People.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <p>
+                  <label>C R</label>
+               </p>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+            </figure>
+            <p>LONDON, Printed ANNO DOM. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116802:2"/>
+            <pb n="1" facs="tcp:116802:2"/>
+            <head>THE Kings Maiesties GRACIOUS DCLARATION TO All His subjects in generall, concerning all those who have taken up Arms against Him, and His Resolution to take no revenge upon any who have assisted the <hi>Parliament.</hi>
+            </head>
+            <div type="declaration">
+               <p>
+                  <seg rend="decorInit">T</seg>HE Kings Majesty having received the Message from both Houses of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> presented by the Right honorable the Earl of <hi>Middlesex,</hi> who desired his Majesties speedy Answer: Telling him, that their return was limited to 1o dais. The King then askt, whether the ten dayes were not to be counted from that of the delivery of the Message; My
+<pb n="2" facs="tcp:116802:3"/> Lord of <hi>Middlesex</hi> answered. No, Sir, they are to be coun<g ref="char:EOLhyphen"/>ted from the day of our setting forth.</p>
+               <p>
+                  <label>The Kings Answer.</label> I have not then five daies allowed me to consider of my Answer, which I presume you expect in writing; And I have none to helpe mee, no not so much as a Clark to transcribe; however I will really contribute my best en<g ref="char:EOLhyphen"/>deavours to a happy <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eace.</p>
+               <p>After a short pauze, the King further declared, I would have sent to the <hi>Parliament,</hi> but I desire them to take no<g ref="char:EOLhyphen"/>tice, That my long silence proceeded not from a dull, stu<g ref="char:EOLhyphen"/>pid lazinesse, or my being insensible of my owne or the Kingdoms condi<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion, but from the incapacity that lay on me by reason of former Votes.</p>
+               <p>But now a way is opened to a treaty, which I ever ap<g ref="char:EOLhyphen"/>prehended, as the only means to a durable peace, I shall cheerfully embrace it, and none shall more speedily run to it, then my self.</p>
+               <p>And for my part, as being more concerned then any one in this Kingdom, nay should I say more then all, I speak it without vanitie, I hope it will be thought no Hi<g ref="char:EOLhyphen"/>perbolicall Expression, for I am assured, whosoever gaines I shall be a loser.</p>
+               <p>His Majestie then read the Votes to himself, and having read them, declared.</p>
+               <p>I like them well, my desires being included in these Votes: for what can I desire more, then to treat with Ho<g ref="char:EOLhyphen"/>nour,
+<pb n="3" facs="tcp:116802:3"/> Freedom, and Safetie, upon the propositions, and such other things, as either I or the Houses shall of<g ref="char:EOLhyphen"/>fer.</p>
+               <p>
+                  <label>QUERY.</label> His Majestie then askt, Whether the Commissioners to treat were yet nominated?</p>
+               <p>
+                  <label>REPLY.</label> My Lord of <hi>Middlesex</hi> answered, No, Sir.</p>
+               <p>Then the King said, In a Treaty, two sorts of things are considerable, some necessarie, others convenient. Then the King said to them, J will go and apply my self to my Answer, that J may not delay a minute to promote so good a work: And then withdrew, and for that time dis<g ref="char:EOLhyphen"/>missed the Commissioners.</p>
+               <p>And upon the time of the Commissioners waiting on his Majestie to receive his Answer, and upon their en<g ref="char:EOLhyphen"/>trance into the presence, the King said, he was sorry that he was limited to so short a time, and had so little helpes for disparch, yet notwithstanding he had prepared his an<g ref="char:EOLhyphen"/>swer.</p>
+               <p>And immediatly before the reading thereof, used these words,</p>
+               <p>That the last Message he sent to the Houses, was deli<g ref="char:EOLhyphen"/>vered to the Commissioners sealed, And had it beene so presented, it would have been better for Him, but now he thought it fit to send this open, because he could not be in a worse condition, being under so close a Restraint, none being suffered to speak a word to Him, without suspition.</p>
+               <pb n="4" facs="tcp:116802:4"/>
+               <p>He then produced his Answer, and read it aloud in the presence Chamber, being full of company: and after hee had read it, his Majesty said,</p>
+               <p>That he hoped hee had therein indeavoured to give sa<g ref="char:EOLhyphen"/>tisfaction to his <hi>Parliament:</hi> there being nothing in it but what he conceived implyed in their Votes.</p>
+               <p>And farther added, That there might be some that would oppose this Treaty, as being gainers by these wars, and therefore desired the continuance of it.</p>
+               <p>Others might think him revengfull, but he declared, he was so far from seeking revenge, That if a straw lay in the way to hurt them, hee would stoop and take it up to pre<g ref="char:EOLhyphen"/>vent it.</p>
+               <p>And further declared in these words, <hi>God forgive them, for J do.</hi>
+               </p>
+               <p>Then the Commissioners comming to take their leaves of him, he called them to him, and asked them, how they liked his Answer, they told him, They thought and ho<g ref="char:EOLhyphen"/>ped, it would produce a sudden and happy wel grounded peace.</p>
+               <closer>
+                  <signed>By an Eye and Earwitnesse, who not trusting to his memory, made use of his pen: and for the truth whereof, the Relator appeales to the Commissioners themselves, or to any there present, who had the happinesse with him, to hear the most pious, and Christian Expressions of a most Religious King.</signed>
+               </closer>
+            </div>
+            <div type="resolution">
+               <pb n="5" facs="tcp:116802:4"/>
+               <head>The Copy of a Letter from Sandwich in Kent, declaring the Resolu<g ref="char:EOLhyphen"/>tion of the Prince of Wales, concerning the Scots great Overthrow in the North.</head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>I Have received your Letter, together with the Inclosed, wherein you make mention of the great Blow in the North, a copy whereof, we have shot into the two Castles of Deal and San<g ref="char:EOLhyphen"/>down, out of an Arrow, and have sent another aboard the Prince, by a Sea-man whom we had prisoner, who (as we hear) is much troubled thereat, and resolved to draw off his shipping from Margarets Point, and the North Forland, and to send a Squadron of ships towards the Coast of Scarbrough, for the reliefe of that Ca<g ref="char:EOLhyphen"/>stle, and the revolted Governour, and to attend the motion of Lieutenant General Cromwell, and Major Ceneral Lambert.</p>
+                     <p>As for the rest of the Navy, we hear that his Highnesse is resolved to stay with them upon the Downs, and to attend the motion of the E. of Warwick, and to guard and secure the nar<g ref="char:EOLhyphen"/>row Seas, conceiving that to be the onliest way for the advancement of his Fathers cause, and to
+<pb n="6" facs="tcp:116802:5"/> curb the Rebels, (as he is pleased to call us) who are the main obstructers to this his present De<g ref="char:EOLhyphen"/>sign.</p>
+                     <p>Capt. Batten being come from Holland, with a squadron of ships, &amp; joyning with the Prince, a councel was called aboard the Admirall, their results was, whether he should fall in at Tilbury to joyne with all the Water-men and Sea-men upon the River, which with the conjunction of the 10000 promised from London, would be a numerous army for raising of the siege at Col<g ref="char:EOLhyphen"/>chester; but having intelligence of the blasting of their design in London, the Prince hath chan<g ref="char:EOLhyphen"/>ged his resolution, and recalled the votes of the councell.</p>
+                     <closer>
+                        <dateline>Sandwich <date>23. August, two in the morning.</date>
+                        </dateline>
+                     </closer>
+                     <trailer>Per Post.</trailer>
+                  </body>
+               </floatingText>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
